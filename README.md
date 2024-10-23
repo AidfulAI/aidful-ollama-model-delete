@@ -1,0 +1,1 @@
+# aidful-ollama-model-delete
